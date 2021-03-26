@@ -23,6 +23,8 @@ footer {
   color: #eb7e7f;
   background-color: #4a4f56;
   padding: 5px;
+  width: 630px;
+  margin: auto;
 }
 li {
   list-style-type: none;
